@@ -5,4 +5,4 @@
 <h><p align="left"> 
 
 *swastiksagar.live* is a website Personal Website created using HTML, CSS and Javascript.</p></h>
-<div align="left"> <h3>Usage</h3></div>
+
