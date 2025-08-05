@@ -41,7 +41,6 @@ https://simpleanalytics.com
 
 ```
 https://swastiksagar.live
-
 ```
 <div align="left"> <h3>Clone and Run Locally</h3></div>
 
