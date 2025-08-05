@@ -28,8 +28,12 @@ Used for privacy-first web traffic monitoring, without compromising visitor data
 No cookies | No tracking | Just insights
 
 ```
-https://simpleanalytics.com
+https://dashboard.simpleanalytics.com/swastiksagar.live
 ```
+
+<img width="" height="300" alt="image" src="https://github.com/user-attachments/assets/ae5a1916-addf-4332-96af-22a735975d14" />
+
+
 <div align="left"> <h3>Tech Stack</h3></div>
 
 ⦁ **Frontend:** HTML, Tailwind CSS, JavaScript<br></br>
