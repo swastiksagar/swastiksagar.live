@@ -31,8 +31,8 @@ No cookies | No tracking | Just insights
 https://dashboard.simpleanalytics.com/swastiksagar.live
 ```
 
-<img width="" height="300" alt="image" src="https://github.com/user-attachments/assets/ae5a1916-addf-4332-96af-22a735975d14" />
-
+<img width="" height="300" alt="image" src="https://github.com/user-attachments/assets/ae5a1916-addf-4332-96af-22a735975d14" /><br></br>
+<a href="https://dashboard.simpleanalytics.com/swastiksagar.live?utm_source=swastiksagar.live&utm_content=badge&affiliate=guwif-soc" referrerpolicy="origin" target="_blank"><picture><source srcset="https://simpleanalyticsbadges.com/swastiksagar.live?mode=dark" media="(prefers-color-scheme: dark)" /><img src="https://simpleanalyticsbadges.com/swastiksagar.live?mode=light" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" /></picture></a>
 
 <div align="left"> <h3>Tech Stack</h3></div>
 
@@ -52,3 +52,10 @@ https://swastiksagar.live
 git clone https://github.com/swastiksagar/swastiksagar.live.git
 cd swastiksagar.live
 open index.html
+```
+
+
+
+
+
+
