@@ -10,9 +10,9 @@
 
 ⦁ Clean, modern, responsive UI.<br></br>
 ⦁ Project and experience sections.<br></br>
-⦁ Built using *HTML*, *CSS*, *JavaScript*, and *Tailwind CSS*.<br></br>
+⦁ Built using HTML, CSS, JavaScript, and Tailwind CSS.<br></br>
 ⦁ Integrated with **Google APIs** for various services.<br></br>
-⦁ Privacy-friendly traffic tracking with ***Simple Analytics***.<br></br>
+⦁ Privacy-friendly traffic tracking with **Simple Analytics**.<br></br>
 
 <div align="left">  <h3>Integrations</h3></div>
 
