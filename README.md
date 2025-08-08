@@ -1,6 +1,3 @@
-<div align="middle">
-<img height="300" src="https://i.postimg.cc/28942Lb1/Screenshot-2025-08-06-003028.png" />
-</div>
 <div align="left"> <h3>Description</h3></div>
 <h><p align="left"> 
 
@@ -41,7 +38,11 @@ https://dashboard.simpleanalytics.com/swastiksagar.live
 ⦁ **Analytics:** Simple Analytics<br></br>
 ⦁ **APIs:** Google APIs<br></br>
 
-<div align="left"> <h3>Website Link</h3></div>
+<div align="left"> <h3>Website Preview</h3></div>
+
+<div align="left">
+<img height="300" src="https://i.postimg.cc/28942Lb1/Screenshot-2025-08-06-003028.png" />
+</div><br>
 
 ```
 https://swastiksagar.live
