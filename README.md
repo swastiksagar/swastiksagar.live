@@ -8,22 +8,22 @@
 
 <div align="left"> <h3>Features</h3></div>
 
-⦁ Clean, modern, responsive UI.<br></br>
-⦁ Project and experience sections.<br></br>
-⦁ Built using HTML, CSS, JavaScript, and Tailwind CSS.<br></br>
-⦁ Integrated with **Google APIs** for various services.<br></br>
-⦁ Privacy-friendly traffic tracking with **Simple Analytics**.<br></br>
+⦁ Clean, modern, responsive UI.<br>
+⦁ Project and experience sections.<br>
+⦁ Built using HTML, CSS, JavaScript, and Tailwind CSS.<br>
+⦁ Integrated with **Google APIs** for various services.<br>
+⦁ Privacy-friendly traffic tracking with **Simple Analytics**.<br>
 
 <div align="left">  <h3>Integrations</h3></div>
 
 Google APIs
 Used for:<br></br>
-⦁ Google Fonts for typography<br></br>
-⦁ Google Search Console for SEO & indexing<br></br>
-⦁ Future plans include integration with YouTube Data API and Google Calendar API<br></br>
+⦁ Google Fonts for typography<br>
+⦁ Google Search Console for SEO & indexing<br>
+⦁ Future plans include integration with YouTube Data API and Google Calendar API<br>
 
 <div align="left"> <h3>Simple Analytics</h3></div>
-Used for privacy-first web traffic monitoring, without compromising visitor data.<br></br>
+Used for privacy-first web traffic monitoring, without compromising visitor data.<br>
 
 No cookies | No tracking | Just insights
 
@@ -36,10 +36,10 @@ https://dashboard.simpleanalytics.com/swastiksagar.live
 
 <div align="left"> <h3>Tech Stack</h3></div>
 
-⦁ **Frontend:** HTML, Tailwind CSS, JavaScript<br></br>
-⦁ **Hosting:** Netlify, Name.com<br></br>
-⦁ **Analytics:** Simple Analytics<br></br>
-⦁ **APIs:** Google APIs<br></br>
+⦁ **Frontend:** HTML, Tailwind CSS, JavaScript<br>
+⦁ **Hosting:** Netlify, Name.com<br>
+⦁ **Analytics:** Simple Analytics<br>
+⦁ **APIs:** Google APIs<br>
 
 <div align="left"> <h3>Website Preview</h3></div>
 
