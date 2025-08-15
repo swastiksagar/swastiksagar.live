@@ -44,7 +44,7 @@ https://dashboard.simpleanalytics.com/swastiksagar.live
 <div align="left"> <h3>Website Preview</h3></div>
 
 <div align="left">
-<img height="300" src="https://i.postimg.cc/L6NfHwrw/Screenshot-2025-08-15-223602.png" />
+<img height="300" src="https://i.postimg.cc/WzDRhQ58/Screenshot-2025-08-15-224317.png" />
 </div><br>
 
 ```
