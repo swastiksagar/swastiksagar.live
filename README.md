@@ -16,8 +16,7 @@
 
 <div align="left">  <h3>Integrations</h3></div>
 
-Google APIs
-Used for:<br></br>
+Google APIs Used for:<br>
 ⦁ Google Fonts for typography<br>
 ⦁ Google Search Console for SEO & indexing<br>
 ⦁ Future plans include integration with YouTube Data API and Google Calendar API<br>
