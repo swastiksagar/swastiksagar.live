@@ -52,7 +52,7 @@ https://swastiksagar.live
 <div align="left"> <h3>Clone and Run Locally</h3></div>
 
 ```bash
-git clone https://github.com/swastiksagar/swastik.live
+git clone https://github.com/swastiksagar/swastiksagar.live
 cd swastiksagar.live
 npm install && npm run dev
 ```
