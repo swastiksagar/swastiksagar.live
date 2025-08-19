@@ -43,7 +43,8 @@ https://dashboard.simpleanalytics.com/swastiksagar.live
 <div align="left"> <h3>Website Preview</h3></div>
 
 <div align="left">
-<img height="300" src="https://i.postimg.cc/Y0ZS5SN8/Screenshot-2025-08-16-121236.png" />
+<img width="" height="300" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/9fd90f3f-75f9-40f1-8226-22502e7ee68e" />
+
 </div><br>
 
 ```
