@@ -8,9 +8,9 @@
 
 <div align="left"> <h3>Features</h3></div>
 
-⦁ Clean, modern, responsive `UI`.<br>
+⦁ Clean, modern, responsive UI.<br>
 ⦁ Project and experience sections.<br>
-⦁ Built using `HTML, CSS, JavaScript, React and Tailwind CSS`.<br>
+⦁ Built using HTML, CSS, JavaScript, React and Tailwind CSS.<br>
 ⦁ Integrated with **Google APIs** for various services.<br>
 ⦁ Privacy-friendly traffic tracking with **Simple Analytics**.<br>
 
@@ -36,7 +36,7 @@ https://dashboard.simpleanalytics.com/swastiksagar.live
 <div align="left"> <h3>Tech Stack</h3></div>
 
 ⦁ **Frontend:** HTML, Tailwind CSS, JavaScript, React<br>
-⦁ **Hosting:** Netlify, `Name.com`<br>
+⦁ **Hosting:** Netlify, Name.com <br>
 ⦁ **Analytics:** Simple Analytics<br>
 ⦁ **APIs:** Google APIs<br>
 
